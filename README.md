@@ -7,3 +7,4 @@ Repo to hold links to build projects with articles
 * http://sitepoint-versioning.cmail19.com/t/y-l-dlould-jiaiuktyh-yh/
 * http://cheapbotsdonequick.com/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning
 * https://karpathy.github.io/2015/05/21/rnn-effectiveness/?utm_source=SitePoint&utm_medium=email&utm_campaign=Versioning
+* https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started
