@@ -11,6 +11,7 @@ Repo to hold links to build projects with articles
 * [20 Docs and Guides for FE Devs - No. 2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 3](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 4](http://www.sitepoint.com/20-docs-guides-front-end-developers-4/)
+* [Command Line for Web Design](http://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777)
 
 ### Articles of Interest
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
