@@ -1,4 +1,4 @@
-# Legend-of-Links
+# Legend-of-Links-Front-End
 Repo to hold links to build projects with articles
 
 * [Build Twitter with AngularJS](http://www.sitepoint.com/building-twitter-app-using-angularjs)
@@ -6,17 +6,31 @@ Repo to hold links to build projects with articles
 * [Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 * [Web Layout Ideas of 2015](http://www.sitepoint.com/web-layout-ideas-2015)
 
-### Guides and Resources
+### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 3](http://www.sitepoint.com/another-20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 4](http://www.sitepoint.com/20-docs-guides-front-end-developers-4/)
 * [Command Line for Web Design](http://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777)
-* [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
 * [10 CSS Generation Tools for Web Designers](http://www.mybridge.co/view/55372187e4b007d9ce664cf9)
+* [10 Resources for React.js](http://codecondo.com/reactjs-resources)
 
-### Articles of Interest
+### Encompassing Guides and Resources
+* [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
+* [Free for Dev](https://github.com/ripienaar/free-for-dev)
+
+### Projects and Demos of Interest
+* [Show HN](https://news.ycombinator.com/show)
+* [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
+
+### Entreprenurial
+* [Toolbox for your StartUp](http://xtensio.com/)
+
+### Articles of Interest (developer-related)
+
+
+### Articles of Interest (non-developer-related)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Top 10 Algorithms Ruling the World](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 * [fractal_lab_amazing_new_fractal_creation_software](https://www.reddit.com/r/videos/comments/34vrc7/fractal_lab_amazing_new_fractal_creation_software/)
@@ -25,3 +39,5 @@ Repo to hold links to build projects with articles
 * divshots
 * github pages
 * bitbucket pages
+
+### Miscellaneous or Yet to Organize
