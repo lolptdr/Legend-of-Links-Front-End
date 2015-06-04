@@ -52,13 +52,14 @@ Repo to hold links to build projects with articles
 
 ### Entreprenurial
 * [Toolbox for your StartUp](http://xtensio.com/)
+* [App Launch Guide (in progress)](https://github.com/adamwulf/app-launch-guide)
 
 ### Static Hosts
-* divshots
-* github pages
-* bitbucket pages
+* [Divshots](https://divshot.com/)
+* [Github pages](https://pages.github.com/)
+* [Bitbucket pages](https://confluence.atlassian.com/display/BITBUCKET/Publishing+a+Website+on+Bitbucket)
 
 ### Miscellaneous or Yet to Organize
 * [Generate Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 * [Tmux Crash Course](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
-* 
+
