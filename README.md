@@ -27,6 +27,12 @@ Repo to hold links to build projects with articles
 ### Design
 * [How to Center CSS](http://howtocenterincss.com/)
 * [5 Prototyping Tips](http://sixrevisions.com/user-experience-ux/prototyping-tips-process)
+* [12 Bootstrap Examples](http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/)
+* [4 Responsive Navigation Menus](http://tutorialzine.com/2015/05/freebie-4-sweet-and-responsive-navigation-menus/)
+* [r/loadingicon](https://www.reddit.com/r/loadingicon)
+* [Viewport Units](http://tutorialzine.com/2015/05/simplify-your-stylesheets-with-the-magical-css-viewport-units/)
+* [Vibrant.js - Extract vibrant colors from image](https://github.com/jariz/vibrant.js)
+* 
 
 ### Encompassing Guides and Resources
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
