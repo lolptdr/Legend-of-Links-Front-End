@@ -23,6 +23,7 @@ Repo to hold links to build projects with articles
 ### AngularJS
 * [$apply() vs $digest()](http://www.sitepoint.com/understanding-angulars-apply-digest/)
 * [ui-router wiki](https://github.com/angular-ui/ui-router/wiki)
+* [mgechev's AngularJS style guide](https://github.com/mgechev/angularjs-style-guide)
 
 ### Design
 * [How to Center CSS](http://howtocenterincss.com/)
