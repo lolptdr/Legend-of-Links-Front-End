@@ -34,7 +34,8 @@ Repo to hold links to build projects with articles
 * [r/loadingicon](https://www.reddit.com/r/loadingicon)
 * [Viewport Units](http://tutorialzine.com/2015/05/simplify-your-stylesheets-with-the-magical-css-viewport-units/)
 * [Vibrant.js - Extract vibrant colors from image](https://github.com/jariz/vibrant.js)
-* 
+* [Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Free UI/UX stuff from UXRepo](http://uxrepo.com/)
 
 ### Encompassing Guides and Resources
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
@@ -46,17 +47,25 @@ Repo to hold links to build projects with articles
 * [Show HN](https://news.ycombinator.com/show)
 * [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
 
+### Tools
+* [RegExr](http://regexr.com/)
+* 
+
 ### Best Newsletters
 * [Sitepoint's Versioning](http://www.sitepoint.com/versioning/)
 
 ### Articles of Interest (developer-related)
 * [Angular vs React](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 * [AngularJS vs Backbone.js vs Ember.js](https://www.airpair.com/js/javascript-framework-comparison)
+* [What is Java EE?](https://stackoverflow.com/questions/106820/what-is-java-ee)
+* 
 
 ### Articles of Interest (non-developer-related)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Top 10 Algorithms Ruling the World](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 * [fractal_lab_amazing_new_fractal_creation_software](https://www.reddit.com/r/videos/comments/34vrc7/fractal_lab_amazing_new_fractal_creation_software/)
+* [When the heck did coding become cool? And why it sucks to be a beginner today...](https://medium.com/@kenmazaika/when-the-heck-did-learning-to-code-become-cool-2e953f1c5efb)
+* 
 
 ### Entreprenurial
 * [Toolbox for your StartUp](http://xtensio.com/)
