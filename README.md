@@ -20,6 +20,7 @@ Repo to hold links to build projects with articles
 * [Meteor Tips](http://meteortips.com/book/)
 * [Flux Intro by Scotch.io](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 * [Flux Archietecture](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
+* [Eric Elliot's JS Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
 
 ### AngularJS
 * [$apply() vs $digest()](http://www.sitepoint.com/understanding-angulars-apply-digest/)
