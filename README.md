@@ -73,6 +73,7 @@ Repo to hold links to build projects with articles
 ### Entreprenurial
 * [Toolbox for your StartUp](http://xtensio.com/)
 * [App Launch Guide (in progress)](https://github.com/adamwulf/app-launch-guide)
+* [Autopsy of Failed StartUps](http://autopsy.io/)
 
 ### Static Hosts
 * [Divshots](https://divshot.com/)
@@ -82,4 +83,7 @@ Repo to hold links to build projects with articles
 ### Miscellaneous or Yet to Organize
 * [Generate Credit Card Numbers](http://www.getcreditcardnumbers.com/)
 * [Tmux Crash Course](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
-
+* [Julia for Rubyists](http://www.sitepoint.com/julia-rubyists-crunch-numbers)
+* [Undo Anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+* [Project Shield](https://www.google.com/ideas/products/project-shield)
+* 
