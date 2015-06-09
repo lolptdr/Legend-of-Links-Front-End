@@ -21,6 +21,7 @@ Repo to hold links to build projects with articles
 * [Flux Intro by Scotch.io](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
 * [Flux Archietecture](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 * [Eric Elliot's JS Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
+* [jQuery recipes your mom should know](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 
 ### AngularJS
 * [$apply() vs $digest()](http://www.sitepoint.com/understanding-angulars-apply-digest/)
@@ -37,6 +38,7 @@ Repo to hold links to build projects with articles
 * [Vibrant.js - Extract vibrant colors from image](https://github.com/jariz/vibrant.js)
 * [Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Free UI/UX stuff from UXRepo](http://uxrepo.com/)
+* [SVG Icon Workflow](http://lukewhitehouse.co.uk/blog/svg-icon-workflow)
 
 ### Encompassing Guides and Resources
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
@@ -50,7 +52,7 @@ Repo to hold links to build projects with articles
 
 ### Tools
 * [RegExr](http://regexr.com/)
-* 
+* [Justice: page metrics](https://github.com/okor/justice)
 
 ### Best Newsletters
 * [Sitepoint's Versioning](http://www.sitepoint.com/versioning/)
