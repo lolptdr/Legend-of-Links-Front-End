@@ -39,6 +39,7 @@ Repo to hold links to build projects with articles
 * [Flexbox by CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Free UI/UX stuff from UXRepo](http://uxrepo.com/)
 * [SVG Icon Workflow](http://lukewhitehouse.co.uk/blog/svg-icon-workflow)
+* [Pairing Fonts](http://www.newmediacampaigns.com/blog/resources-for-font-pairing-typography-inspiration)
 
 ### Encompassing Guides and Resources
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
