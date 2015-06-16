@@ -7,6 +7,7 @@ Repo to hold links to build projects with articles
 * [Slack Clone in Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 * [Web Layout Ideas of 2015](http://www.sitepoint.com/web-layout-ideas-2015)
 * [First Web App in React](http://tutorialzine.com/2015/04/first-webapp-react/)
+* [Make your Own Recipe Book for AngularJS](https://fdietz.github.io/recipes-with-angular-js)
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
@@ -62,14 +63,12 @@ Repo to hold links to build projects with articles
 * [Angular vs React](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 * [AngularJS vs Backbone.js vs Ember.js](https://www.airpair.com/js/javascript-framework-comparison)
 * [What is Java EE?](https://stackoverflow.com/questions/106820/what-is-java-ee)
-* 
 
 ### Articles of Interest (non-developer-related)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Top 10 Algorithms Ruling the World](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 * [fractal_lab_amazing_new_fractal_creation_software](https://www.reddit.com/r/videos/comments/34vrc7/fractal_lab_amazing_new_fractal_creation_software/)
 * [When the heck did coding become cool? And why it sucks to be a beginner today...](https://medium.com/@kenmazaika/when-the-heck-did-learning-to-code-become-cool-2e953f1c5efb)
-* 
 
 ### Entreprenurial
 * [Toolbox for your StartUp](http://xtensio.com/)
@@ -87,4 +86,4 @@ Repo to hold links to build projects with articles
 * [Julia for Rubyists](http://www.sitepoint.com/julia-rubyists-crunch-numbers)
 * [Undo Anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Project Shield](https://www.google.com/ideas/products/project-shield)
-* 
+
