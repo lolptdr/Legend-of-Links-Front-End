@@ -63,6 +63,9 @@ Repo to hold links to build projects with articles
 * [Angular vs React](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 * [AngularJS vs Backbone.js vs Ember.js](https://www.airpair.com/js/javascript-framework-comparison)
 * [What is Java EE?](https://stackoverflow.com/questions/106820/what-is-java-ee)
+* [Virtues of a Programmer: Laziness, Impatience, Hubris] (http://c2.com/cgi/wiki?LazinessImpatienceHubris)
+* [Fighting Spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
+* [Definition of Lying and Deception](http://plato.stanford.edu/entries/lying-definition/)
 
 ### Articles of Interest (non-developer-related)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
