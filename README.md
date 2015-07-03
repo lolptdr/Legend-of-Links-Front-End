@@ -59,7 +59,7 @@ Repo to hold links to build projects with articles
 ### Best Newsletters
 * [Sitepoint's Versioning](http://www.sitepoint.com/versioning/)
 
-### Articles of Interest (developer-related)
+### Articles of Interest (developer-related, code topics)
 * [Angular vs React](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
 * [AngularJS vs Backbone.js vs Ember.js](https://www.airpair.com/js/javascript-framework-comparison)
 * [What is Java EE?](https://stackoverflow.com/questions/106820/what-is-java-ee)
@@ -67,7 +67,7 @@ Repo to hold links to build projects with articles
 * [Fighting Spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [Definition of Lying and Deception](http://plato.stanford.edu/entries/lying-definition/)
 
-### Articles of Interest (non-developer-related)
+### Articles of Interest (soft skills, misc topics)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Top 10 Algorithms Ruling the World](https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04)
 * [fractal_lab_amazing_new_fractal_creation_software](https://www.reddit.com/r/videos/comments/34vrc7/fractal_lab_amazing_new_fractal_creation_software/)
