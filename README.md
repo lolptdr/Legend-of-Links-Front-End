@@ -48,6 +48,11 @@ Repo to hold links to build projects with articles
 * [Webdesignrepo](http://www.webdesignrepo.com/)
 * [Tagtree courses like ES6 and more](http://tagtree.io/)
 
+### Interview Skills and Questions and Topics
+* (https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
+* (https://www.reddit.com/r/webdev/comments/3gxydn/what_to_learn_after_javascript_and_how_do_i_know/)
+* (https://www.reddit.com/r/webdev/comments/3gxd2f/recent_technical_phone_interview_for_a_full_stack/)
+
 ### Projects and Demos of Interest
 * [Show HN](https://news.ycombinator.com/show)
 * [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
