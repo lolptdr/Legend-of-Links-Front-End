@@ -57,6 +57,7 @@ Repo to hold links to build projects with articles
 ### Projects and Demos of Interest
 * [Show HN](https://news.ycombinator.com/show)
 * [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
+* [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 
 ### Tools
 * [RegExr](http://regexr.com/)
