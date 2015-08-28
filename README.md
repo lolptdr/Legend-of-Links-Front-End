@@ -8,6 +8,7 @@ Repo to hold links to build projects with articles
 * [Web Layout Ideas of 2015](http://www.sitepoint.com/web-layout-ideas-2015)
 * [First Web App in React](http://tutorialzine.com/2015/04/first-webapp-react/)
 * [Make your Own Recipe Book for AngularJS](https://fdietz.github.io/recipes-with-angular-js)
+* [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
@@ -50,14 +51,14 @@ Repo to hold links to build projects with articles
 * [Tagtree courses like ES6 and more](http://tagtree.io/)
 
 ### Interview Skills and Questions and Topics
-* (https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
-* (https://www.reddit.com/r/webdev/comments/3gxydn/what_to_learn_after_javascript_and_how_do_i_know/)
-* (https://www.reddit.com/r/webdev/comments/3gxd2f/recent_technical_phone_interview_for_a_full_stack/)
+* [Front-End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
+* https://www.reddit.com/r/webdev/comments/3gxydn/what_to_learn_after_javascript_and_how_do_i_know/
+* https://www.reddit.com/r/webdev/comments/3gxd2f/recent_technical_phone_interview_for_a_full_stack/
 
-### Projects and Demos of Interest
+### Other Projects and Demos of Interest
 * [Show HN](https://news.ycombinator.com/show)
 * [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
-* [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 
 ### Tools
 * [RegExr](http://regexr.com/)
