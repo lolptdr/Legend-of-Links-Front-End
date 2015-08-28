@@ -90,6 +90,7 @@ Repo to hold links to build projects with articles
 * [Divshots](https://divshot.com/)
 * [Github pages](https://pages.github.com/)
 * [Bitbucket pages](https://confluence.atlassian.com/display/BITBUCKET/Publishing+a+Website+on+Bitbucket)
+* [Slant's List of Static-Site Generators](http://www.slant.co/topics/330/~what-are-the-best-static-site-generators)
 
 ### Miscellaneous or Yet to Organize
 * [Generate Credit Card Numbers](http://www.getcreditcardnumbers.com/)
