@@ -49,6 +49,7 @@ Repo to hold links to build projects with articles
 * [Free for Dev](https://github.com/ripienaar/free-for-dev)
 * [Webdesignrepo](http://www.webdesignrepo.com/)
 * [Tagtree courses like ES6 and more](http://tagtree.io/)
+* [Sit the Tests](https://sitthetest.com/tests)
 
 ### Interview Skills and Questions and Topics
 * [Front-End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
