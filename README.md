@@ -77,6 +77,7 @@ Repo to hold links to build projects with articles
 * [Virtues of a Programmer: Laziness, Impatience, Hubris] (http://c2.com/cgi/wiki?LazinessImpatienceHubris)
 * [Fighting Spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [Definition of Lying and Deception](http://plato.stanford.edu/entries/lying-definition/)
+* [Terminal Commands](http://www.mitchchn.me/2014/os-x-terminal)
 
 ### Articles of Interest (soft skills, misc topics)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
