@@ -62,6 +62,7 @@ Repo to hold links to build projects with articles
 * [Show HN](https://news.ycombinator.com/show)
 * [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
 * [Visual Studio Code and Docker to build and deploy Node app](http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx)
+* [Deploy Slackbot via Heroku](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
 
 ### Tools
 * [RegExr](http://regexr.com/)
