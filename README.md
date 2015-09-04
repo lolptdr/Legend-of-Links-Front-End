@@ -33,6 +33,7 @@ Repo to hold links to build projects with articles
 
 ### Design
 * [How to Center CSS](http://howtocenterincss.com/)
+* [3 Lines to Center Anything](http://tutorialzine.com/2015/09/quick-tip-the-simplest-way-to-center-elements-vertically-and-horizontally/)
 * [5 Prototyping Tips](http://sixrevisions.com/user-experience-ux/prototyping-tips-process)
 * [12 Bootstrap Examples](http://tutorialzine.com/2015/06/12-time-saving-bootstrap-examples/)
 * [4 Responsive Navigation Menus](http://tutorialzine.com/2015/05/freebie-4-sweet-and-responsive-navigation-menus/)
