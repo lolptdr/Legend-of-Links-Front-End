@@ -80,6 +80,7 @@ Repo to hold links to build projects with articles
 * [Definition of Lying and Deception](http://plato.stanford.edu/entries/lying-definition/)
 * [Terminal Commands](http://www.mitchchn.me/2014/os-x-terminal)
 * [Gentle Guide to Machine Learning](http://blog.monkeylearn.com/a-gentle-guide-to-machine-learning)
+* [How to Get Blinking Git Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
 
 ### Articles of Interest (soft skills, misc topics)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
