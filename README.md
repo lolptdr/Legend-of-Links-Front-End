@@ -105,3 +105,5 @@ Repo to hold links to build projects with articles
 * [Undo Anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Project Shield](https://www.google.com/ideas/products/project-shield)
 
+### Back-end
+* [Ruby-on-Rails Interview Questions - reskill blog](https://web.archive.org/web/20150927144739/http://blog.reskill.me/ruby-on-rails-interview-questions-that-will-land-you-the-job/)
