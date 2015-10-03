@@ -14,6 +14,7 @@ Repo to hold links to build projects with articles
 * [A Cartoon Guide to Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207)
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 * [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
+* [Fluxxor resource](http://fluxxor.com/what-is-flux.html)
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
