@@ -15,6 +15,8 @@ Repo to hold links to build projects with articles
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 * [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
 * [Fluxxor resource](http://fluxxor.com/what-is-flux.html)
+* [Jing Chen's talk "Rethinking Web App Development at Facebook"](https://www.youtube.com/watch?v=nYkdrAPrdcw)
+* [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
