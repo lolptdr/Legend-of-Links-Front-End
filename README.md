@@ -10,6 +10,11 @@ Repo to hold links to build projects with articles
 * [Make your Own Recipe Book for AngularJS](https://fdietz.github.io/recipes-with-angular-js)
 * [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 
+### Flux
+* [A Cartoon Guide to Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207)
+* [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
+* [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
+
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
