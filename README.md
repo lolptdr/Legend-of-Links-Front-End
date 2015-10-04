@@ -119,3 +119,6 @@ Repo to hold links to build projects with articles
 Ruby-on-Rails and Ruby
 * [Ruby-on-Rails Interview Questions - reskill blog](https://web.archive.org/web/20150927144739/http://blog.reskill.me/ruby-on-rails-interview-questions-that-will-land-you-the-job/)
 * [Difference between block, proc, and lambda](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
+
+Clojure
+*[Learn Clojure in 15 minutes](http://adambard.com/blog/clojure-in-15-minutes/)
