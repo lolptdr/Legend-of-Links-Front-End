@@ -79,6 +79,7 @@ Repo to hold links to build projects with articles
 
 ### Best Newsletters
 * [Sitepoint's Versioning](http://www.sitepoint.com/versioning/)
+* [JavaScript Weekly](http://javascriptweekly.com/)
 
 ### Articles of Interest (developer-related, code topics)
 * [Angular vs React](https://www.airpair.com/angularjs/posts/angular-vs-react-the-tie-breaker)
