@@ -21,6 +21,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Futurice's Reactive MVC and Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom/)
 
 ### Redux - a better Flux
+* [Dan Abrambov's initial article on Redux](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 * [Rackt's Redux intro and examples](https://rackt.github.io/redux/index.html)
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
