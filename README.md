@@ -45,6 +45,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [ui-router wiki](https://github.com/angular-ui/ui-router/wiki)
 * [mgechev's AngularJS style guide](https://github.com/mgechev/angularjs-style-guide)
 * [John Papa Angular style guide](https://github.com/johnpapa/angular-styleguide)
+* [Angular 1 and 2 Coexistence](http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html)
 
 ### Design
 * [How to Center CSS](http://howtocenterincss.com/)
