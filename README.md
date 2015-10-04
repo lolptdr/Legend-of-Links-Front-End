@@ -11,12 +11,19 @@ Repo to hold links to build projects with articles
 * [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 
 ### Flux
+*[Staltz's Unidirectional user interface architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
+https://news.ycombinator.com/item?id=10115314
 * [A Cartoon Guide to Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207)
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 * [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
 * [Fluxxor resource](http://fluxxor.com/what-is-flux.html)
 * [Jing Chen's talk "Rethinking Web App Development at Facebook"](https://www.youtube.com/watch?v=nYkdrAPrdcw)
+* [Futurice's Reactive MVC and Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom/)
+
+### Redux - a better Flux
+* [Rackt's Redux intro and examples](https://rackt.github.io/redux/index.html)
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
+* 
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
