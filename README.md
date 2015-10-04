@@ -23,7 +23,6 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### Redux - a better Flux
 * [Rackt's Redux intro and examples](https://rackt.github.io/redux/index.html)
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
-* 
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
