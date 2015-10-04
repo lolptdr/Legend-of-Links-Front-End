@@ -11,8 +11,8 @@ Repo to hold links to build projects with articles
 * [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 
 ### Flux
-*[Staltz's Unidirectional user interface architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
-https://news.ycombinator.com/item?id=10115314
+* [Staltz's Unidirectional user interface architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
+HN Link: https://news.ycombinator.com/item?id=10115314
 * [A Cartoon Guide to Flux](https://medium.com/@linclark/a-cartoon-guide-to-flux-6157355ab207)
 * [The Case for Flux](https://medium.com/@dan_abramov/the-case-for-flux-379b7d1982c6)
 * [Flux Documentation](https://facebook.github.io/flux/docs/overview.html)
