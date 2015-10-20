@@ -48,6 +48,8 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [mgechev's AngularJS style guide](https://github.com/mgechev/angularjs-style-guide)
 * [John Papa Angular style guide](https://github.com/johnpapa/angular-styleguide)
 * [Angular 1 and 2 Coexistence](http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html)
+* [11 Tips for Improving AnguarlJS Performance](http://www.alexkras.com/11-tips-to-improve-angularjs-performance/)
+* [What to Expect and Prepare for AngularJS Interview Interview](https://medium.com/@egensolutions/what-to-expect-and-how-to-prepare-for-your-angular-js-interview-part-1-2ad0ef03064f)
 
 ### Design
 * [How to Center CSS](http://howtocenterincss.com/)
