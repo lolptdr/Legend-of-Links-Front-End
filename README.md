@@ -42,6 +42,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Async in the Browser](http://www.datchley.name/asynchronous-in-the-browser/)
 
 ### AngularJS
+* [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 * [$apply() vs $digest()](http://www.sitepoint.com/understanding-angulars-apply-digest/)
 * [ui-router wiki](https://github.com/angular-ui/ui-router/wiki)
 * [mgechev's AngularJS style guide](https://github.com/mgechev/angularjs-style-guide)
