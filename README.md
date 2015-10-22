@@ -87,6 +87,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### Tools
 * [RegExr](http://regexr.com/)
 * [Justice: page metrics](https://github.com/okor/justice)
+* [Chrome Devtool Tips](http://mo.github.io/2015/10/19/chrome-devtools.html)
 
 ### Best Newsletters
 * [Sitepoint's Versioning](http://www.sitepoint.com/versioning/)
