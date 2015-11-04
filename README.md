@@ -71,12 +71,14 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Webdesignrepo](http://www.webdesignrepo.com/)
 * [Tagtree courses like ES6 and more](http://tagtree.io/)
 * [Giant List of Styleguides](https://adactio.com/links/tags/styleguide)
+* [Frontend Tooling Survey 2015](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
 
 ### Interview Skills and Questions and Topics
 * [Front-End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/
 * https://www.reddit.com/r/webdev/comments/3gxydn/what_to_learn_after_javascript_and_how_do_i_know/
 * https://www.reddit.com/r/webdev/comments/3gxd2f/recent_technical_phone_interview_for_a_full_stack/
+* https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/
 
 ### Other Projects and Demos of Interest
 * [Show HN](https://news.ycombinator.com/show)
