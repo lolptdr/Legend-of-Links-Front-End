@@ -64,6 +64,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Free UI/UX stuff from UXRepo](http://uxrepo.com/)
 * [SVG Icon Workflow](http://lukewhitehouse.co.uk/blog/svg-icon-workflow)
 * [Pairing Fonts](http://www.newmediacampaigns.com/blog/resources-for-font-pairing-typography-inspiration)
+* [Tools Designers Use Today](http://tools.subtraction.com/)
 
 ### Inspiration for Art, Music, and Video
 * [Isometric, game-like drawings, surrel](http://whitelead.com/jrh/screenshots/index.html)
@@ -140,5 +141,5 @@ Ruby-on-Rails and Ruby
 * [Ruby-on-Rails Interview Questions - reskill blog](https://web.archive.org/web/20150927144739/http://blog.reskill.me/ruby-on-rails-interview-questions-that-will-land-you-the-job/)
 * [Difference between block, proc, and lambda](http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/)
 
-Clojure
-*[Learn Clojure in 15 minutes](http://adambard.com/blog/clojure-in-15-minutes/)
+### Clojure and Other Functional Programming Topics
+* [Learn Clojure in 15 minutes](http://adambard.com/blog/clojure-in-15-minutes/)
