@@ -65,6 +65,9 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [SVG Icon Workflow](http://lukewhitehouse.co.uk/blog/svg-icon-workflow)
 * [Pairing Fonts](http://www.newmediacampaigns.com/blog/resources-for-font-pairing-typography-inspiration)
 
+### Inspiration for Art, Music, and Video
+* [Isometric, game-like drawings, surrel](http://whitelead.com/jrh/screenshots/index.html)
+
 ### Encompassing Guides and Resources
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
 * [Free for Dev](https://github.com/ripienaar/free-for-dev)
