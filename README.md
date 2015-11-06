@@ -26,6 +26,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
 ### JS Guides and Resources
+* [ES6 ExploringJS](http://exploringjs.com/)
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
@@ -68,6 +69,8 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 
 ### Inspiration for Art, Music, and Video
 * [Isometric, game-like drawings, surrel](http://whitelead.com/jrh/screenshots/index.html)
+* [Unsplash Images](https://source.unsplash.com/)
+* [Death to Stock Photography](http://deathtothestockphoto.com/)
 
 ### Encompassing Guides and Resources
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks)
@@ -127,6 +130,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Github pages](https://pages.github.com/)
 * [Bitbucket pages](https://confluence.atlassian.com/display/BITBUCKET/Publishing+a+Website+on+Bitbucket)
 * [Slant's List of Static-Site Generators](http://www.slant.co/topics/330/~what-are-the-best-static-site-generators)
+* [Caddy http/2](https://caddyserver.com/)
 
 ### Miscellaneous or Yet to Organize
 * [Generate Credit Card Numbers](http://www.getcreditcardnumbers.com/)
