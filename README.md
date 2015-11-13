@@ -46,6 +46,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Async in the Browser](http://www.datchley.name/asynchronous-in-the-browser/)
 * [Node School](http://nodeschool.io/)
 * [We Have a Problem With Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+* [Interactive Exercises in Functional Programming in JS](http://reactivex.io/learnrx/)
 
 ### ES6
 * [Nick Justice's ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
