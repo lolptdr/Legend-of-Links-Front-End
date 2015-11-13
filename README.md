@@ -142,6 +142,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Julia for Rubyists](http://www.sitepoint.com/julia-rubyists-crunch-numbers)
 * [Undo Anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Project Shield](https://www.google.com/ideas/products/project-shield)
+* [Hacker's Guide to Neural Networks](https://karpathy.github.io/neuralnets/)
 
 ### Back-end
 
