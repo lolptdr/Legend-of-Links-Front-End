@@ -20,14 +20,19 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Fluxxor resource](http://fluxxor.com/what-is-flux.html)
 * [Jing Chen's talk "Rethinking Web App Development at Facebook"](https://www.youtube.com/watch?v=nYkdrAPrdcw)
 * [Futurice's Reactive MVC and Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom/)
+* [Flux Intro by Scotch.io](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
+* [Flux Archietecture](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 
 ### Redux - a better Flux
 * [Dan Abrambov's initial article on Redux](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 * [Rackt's Redux intro and examples](https://rackt.github.io/redux/index.html)
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
+### React
+* [10 Resources for React.js](http://codecondo.com/reactjs-resources)
+
+
 ### JS Guides and Resources
-* [ES6 ExploringJS](http://exploringjs.com/)
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
@@ -35,15 +40,16 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [20 Docs and Guides for FE Devs - No. 4](http://www.sitepoint.com/20-docs-guides-front-end-developers-4/)
 * [Command Line for Web Design](http://webdesign.tutsplus.com/series/the-command-line-for-web-design--cms-777)
 * [10 CSS Generation Tools for Web Designers](http://www.mybridge.co/view/55372187e4b007d9ce664cf9)
-* [10 Resources for React.js](http://codecondo.com/reactjs-resources)
 * [Meteor Tips](http://meteortips.com/book/)
-* [Flux Intro by Scotch.io](https://scotch.io/tutorials/getting-to-know-flux-the-react-js-architecture)
-* [Flux Archietecture](http://blogs.atlassian.com/2014/08/flux-architecture-step-by-step/)
 * [Eric Elliot's JS Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
 * [jQuery recipes your mom should know](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 * [Async in the Browser](http://www.datchley.name/asynchronous-in-the-browser/)
 * [Node School](http://nodeschool.io/)
 * [We Have a Problem With Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
+### ES6
+* [Nick Justice's ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
+* [ES6 ExploringJS](http://exploringjs.com/)
 
 ### AngularJS
 * [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
