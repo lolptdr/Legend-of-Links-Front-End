@@ -41,6 +41,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Eric Elliot's JS Links](https://github.com/ericelliott/essential-javascript-links#essential-javascript-links)
 * [jQuery recipes your mom should know](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 * [Async in the Browser](http://www.datchley.name/asynchronous-in-the-browser/)
+* [Node School](http://nodeschool.io/)
 
 ### AngularJS
 * [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
@@ -51,6 +52,9 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Angular 1 and 2 Coexistence](http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html)
 * [11 Tips for Improving AnguarlJS Performance](http://www.alexkras.com/11-tips-to-improve-angularjs-performance/)
 * [What to Expect and Prepare for AngularJS Interview Interview](https://medium.com/@egensolutions/what-to-expect-and-how-to-prepare-for-your-angular-js-interview-part-1-2ad0ef03064f)
+
+### Angular2
+* [First Impressions](http://blog.mgechev.com/2015/04/06/angular2-first-impressions/)
 
 ### Design
 * [How to Center CSS](http://howtocenterincss.com/)
