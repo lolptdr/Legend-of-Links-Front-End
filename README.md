@@ -42,6 +42,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [jQuery recipes your mom should know](https://github.com/AllThingsSmitty/jquery-your-mom-should-know)
 * [Async in the Browser](http://www.datchley.name/asynchronous-in-the-browser/)
 * [Node School](http://nodeschool.io/)
+* [We Have a Problem With Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
 ### AngularJS
 * [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
