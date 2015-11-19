@@ -32,7 +32,6 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### React
 * [10 Resources for React.js](http://codecondo.com/reactjs-resources)
 
-
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
@@ -155,6 +154,11 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Undo Anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Project Shield](https://www.google.com/ideas/products/project-shield)
 * [Hacker's Guide to Neural Networks](https://karpathy.github.io/neuralnets/)
+
+### Coding Games and Challenges
+* [Empire of Code](https://empireofcode.com)
+* [Untrusted by Dr. Eval](https://github.com/AlexNisnevich/untrusted)
+
 
 ### Back-end
 
