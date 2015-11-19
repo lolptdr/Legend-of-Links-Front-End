@@ -139,6 +139,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Toolbox for your StartUp](http://xtensio.com/)
 * [App Launch Guide (in progress)](https://github.com/adamwulf/app-launch-guide)
 * [Autopsy of Failed StartUps](http://autopsy.io/)
+* [How to Suck at Socia Media for Businesses](http://www.kaushik.net/avinash/social-media-marketing-success-guide-businesses)
 
 ### Static Hosts
 * [Divshots](https://divshot.com/)
