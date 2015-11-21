@@ -155,6 +155,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Undo Anything in Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * [Project Shield](https://www.google.com/ideas/products/project-shield)
 * [Hacker's Guide to Neural Networks](https://karpathy.github.io/neuralnets/)
+* [38 Great Data Mining Resources](http://blog.import.io/post/38-great-resources-for-learning-data-mining-concepts-and-techniques)
 
 ### Coding Games and Challenges
 * [Empire of Code](https://empireofcode.com)
