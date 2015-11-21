@@ -80,6 +80,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [SVG Icon Workflow](http://lukewhitehouse.co.uk/blog/svg-icon-workflow)
 * [Pairing Fonts](http://www.newmediacampaigns.com/blog/resources-for-font-pairing-typography-inspiration)
 * [Tools Designers Use Today](http://tools.subtraction.com/)
+* [Sitemaps and User Flow Maps](http://speckyboy.com/2015/01/28/collection-inspiring-sitemaps-user-flow-maps)
 
 ### Inspiration for Art, Music, and Video
 * [Isometric, game-like drawings, surrel](http://whitelead.com/jrh/screenshots/index.html)
