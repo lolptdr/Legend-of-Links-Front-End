@@ -31,6 +31,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 
 ### React
 * [10 Resources for React.js](http://codecondo.com/reactjs-resources)
+* [Routing with Raw React](http://jamesknelson.com/routing-with-raw-react)
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
