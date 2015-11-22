@@ -160,6 +160,12 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### Data Science and Machine Learning
 * [38 Great Data Mining Resources](http://blog.import.io/post/38-great-resources-for-learning-data-mining-concepts-and-techniques)
 * [Best Big Data Tools and How to Use Them](http://blog.import.io/post/all-the-best-big-data-tools-and-how-to-use-them)
+* [Neural Nework in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network)
+* [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1)
+* [Domino's Comparison of R and Python](http://blog.dominodatalab.com/comparing-python-and-r-for-data-science)
+* [Nate Silver on Finding a Mentor, Teaching Yourself Statistics, and Not Settling in Your Career](https://hbr.org/2013/09/nate-silver-on-finding-a-mentor-teaching-yourself-statistics-and-not-settling-in-your-career)
+* [Tips for Winning Data Science Competitions (for creating a good portfolio)](http://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions)
+* [10 R Packages to Win Kaggle Competitions](http://www.slideshare.net/DataRobot/final-10-r-xc-36610234)
 
 ### Coding Games and Challenges
 * [Empire of Code](https://empireofcode.com)
