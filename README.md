@@ -32,6 +32,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### React
 * [10 Resources for React.js](http://codecondo.com/reactjs-resources)
 * [Routing with Raw React](http://jamesknelson.com/routing-with-raw-react)
+* [React Won the Client Side War](http://www.sitepoint.com/react-has-won-the-client-side-war)
 
 ### JS Guides and Resources
 * [JS the right way](http://jstherightway.org/)
