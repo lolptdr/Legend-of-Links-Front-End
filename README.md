@@ -48,6 +48,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Async in the Browser](http://www.datchley.name/asynchronous-in-the-browser/)
 * [Node School](http://nodeschool.io/)
 * [We Have a Problem With Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+* [How do Promises work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 * [Interactive Exercises in Functional Programming in JS](http://reactivex.io/learnrx/)
 * [Best JavaScript Podcasts](http://www.slant.co/topics/3218/~podcasts-about-javascript)
 
