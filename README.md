@@ -52,6 +52,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [How do Promises work?](http://robotlolita.me/2015/11/15/how-do-promises-work.html)
 * [Interactive Exercises in Functional Programming in JS](http://reactivex.io/learnrx/)
 * [Best JavaScript Podcasts](http://www.slant.co/topics/3218/~podcasts-about-javascript)
+* [10 Things to Know about Gulp](http://engineroom.teamwork.com/10-things-to-know-about-gulp)
 
 ### ES6
 * [Nick Justice's ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
