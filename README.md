@@ -11,6 +11,7 @@ Repo to hold links to build projects with articles
 * [D3 Calendar](https://egghead.io/lessons/d3-build-a-calendar-from-scratch-in-7-minutes-with-d3)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [Explore CMS apps build with Node.js](http://www.sitepoint.com/exploring-different-cms-solutions-built-on-node-js/)
+* [Overview of Popular JS Libraries and Frameworks (also check Slant)](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use)
 
 ### Flux
 * [Staltz's Unidirectional user interface architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
