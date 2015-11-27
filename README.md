@@ -138,6 +138,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [fractal_lab_amazing_new_fractal_creation_software](https://www.reddit.com/r/videos/comments/34vrc7/fractal_lab_amazing_new_fractal_creation_software/)
 * [When the heck did coding become cool? And why it sucks to be a beginner today...](https://medium.com/@kenmazaika/when-the-heck-did-learning-to-code-become-cool-2e953f1c5efb)
 * [Hardest Program Ever Written: A Code Formatter](http://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/)
+* [NOAA and SDR: Getting Satellite Images and Data](http://mattg.co.uk/words/noaa_sdr/)
 
 ### Entreprenurial
 * [Toolbox for your StartUp](http://xtensio.com/)
