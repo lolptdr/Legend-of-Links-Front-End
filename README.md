@@ -57,6 +57,15 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 ### ES6
 * [Nick Justice's ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
 * [ES6 ExploringJS](http://exploringjs.com/)
+* [ES2015 Code School](https://www.codeschool.com/courses/es2015-the-shape-of-javascript-to-come)
+* [Nick Bevacqua's ES6 in 350 Bullet Points](https://github.com/bevacqua/es6)
+* [K. Scott Allen's What Every JavaScript Developer Should Know About ECMAScript 2015](http://www.amazon.com/gp/product/B018D12X0C)
+* [Addy Osmani's ES6 Tool List](https://github.com/addyosmani/es6-tools)
+* [Eric Douglas' List of ES6 Learning](https://github.com/ericdouglas/ES6-Learning)
+
+### Testing
+* [Data Driven Tests in JavaScript with Mocha](https://booker.codes/data-driven-tests-in-javascript-using-mocha/)
+* 
 
 ### AngularJS
 * [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
