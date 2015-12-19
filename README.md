@@ -13,6 +13,7 @@ Repo to hold links to build projects with articles
 * [Explore CMS apps build with Node.js](http://www.sitepoint.com/exploring-different-cms-solutions-built-on-node-js/)
 * [Overview of Popular JS Libraries and Frameworks (also check Slant)](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use)
 * [Pick libraries that you need](http://microjs.com/#)
+* [Rain and Water Effect Experiement](https://news.ycombinator.com/item?id=10506038)
 
 ### Flux
 * [Staltz's Unidirectional user interface architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
