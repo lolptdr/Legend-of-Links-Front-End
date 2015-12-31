@@ -14,6 +14,7 @@ Repo to hold links to build projects with articles
 * [Overview of Popular JS Libraries and Frameworks (also check Slant)](http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use)
 * [Pick libraries that you need](http://microjs.com/#)
 * [Rain and Water Effect Experiement](https://news.ycombinator.com/item?id=10506038)
+* [Draw every street in Romania](http://danburzo.ro/every-street/)
 
 ### Flux
 * [Staltz's Unidirectional user interface architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
