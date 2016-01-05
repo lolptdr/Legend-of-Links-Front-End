@@ -39,6 +39,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [React Won the Client Side War](http://www.sitepoint.com/react-has-won-the-client-side-war)
 
 ### JS Guides and Resources
+* [Front End Tools Favorite Finds 2015](http://www.sitepoint.com/front-end-tools-favorite-finds-2015/) 
 * [JS the right way](http://jstherightway.org/)
 * [20 Docs and Guides for FE Devs - No. 1](http://www.sitepoint.com/20-docs-guides-front-end-developers/)
 * [20 Docs and Guides for FE Devs - No. 2](http://www.sitepoint.com/20-more-docs-guides-front-end-developers/)
