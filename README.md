@@ -70,7 +70,6 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 
 ### Testing
 * [Data Driven Tests in JavaScript with Mocha](https://booker.codes/data-driven-tests-in-javascript-using-mocha/)
-* 
 
 ### AngularJS
 * [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
@@ -113,6 +112,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Tagtree courses like ES6 and more](http://tagtree.io/)
 * [Giant List of Styleguides](https://adactio.com/links/tags/styleguide)
 * [Frontend Tooling Survey 2015](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
+* [Trends to See in 2016](http://techcrunch.com/2016/01/13/1261560/#.si58fik:B8KO)
 
 ### Interview Skills and Questions and Topics
 * [Front-End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
