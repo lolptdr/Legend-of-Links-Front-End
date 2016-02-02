@@ -32,6 +32,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Dan Abrambov's initial article on Redux](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 * [Rackt's Redux intro and examples](https://rackt.github.io/redux/index.html)
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
+* [What's a Redux?](https://quickleft.com/blog/redux-plain-english-workflow/)
 
 ### React
 * [React-howto by Pete Hunt](https://github.com/petehunt/react-howto)
@@ -74,11 +75,14 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Data Driven Tests in JavaScript with Mocha](https://booker.codes/data-driven-tests-in-javascript-using-mocha/)
 
 ### AngularJS
+* [AngularJS for Managers](http://andrewaustin.com/an-overview-of-angularjs-for-managers/)
+* [Ultimate guide to learning AngularJS in one day (Great Overview!)](https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 * [Custom Directives sitepoint](http://www.sitepoint.com/practical-guide-angularjs-directives/)
 * [$apply() vs $digest()](http://www.sitepoint.com/understanding-angulars-apply-digest/)
 * [ui-router wiki](https://github.com/angular-ui/ui-router/wiki)
 * [mgechev's AngularJS style guide](https://github.com/mgechev/angularjs-style-guide)
 * [John Papa Angular style guide](https://github.com/johnpapa/angular-styleguide)
+* [Todd Mottos AngularJS style guide](https://toddmotto.com/opinionated-angular-js-styleguide-for-teams/)
 * [Angular 1 and 2 Coexistence](http://angularjs.blogspot.com/2015/08/angular-1-and-angular-2-coexistence.html)
 * [11 Tips for Improving AnguarlJS Performance](http://www.alexkras.com/11-tips-to-improve-angularjs-performance/)
 * [What to Expect and Prepare for AngularJS Interview Interview](https://medium.com/@egensolutions/what-to-expect-and-how-to-prepare-for-your-angular-js-interview-part-1-2ad0ef03064f)
@@ -129,10 +133,11 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Visual Studio Code and Docker to build and deploy Node app](http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx)
 * [Deploy Slackbot via Heroku](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
 
-### Tools
+### Tools and DevOps
 * [RegExr](http://regexr.com/)
 * [Justice: page metrics](https://github.com/okor/justice)
 * [Chrome Devtool Tips](http://mo.github.io/2015/10/19/chrome-devtools.html)
+* [AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 
 ### Best Newsletters
 * [Sitepoint's Versioning](http://www.sitepoint.com/versioning/)
