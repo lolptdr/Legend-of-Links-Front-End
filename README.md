@@ -34,6 +34,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 
 ### React
+* [React-howto by Pete Hunt](https://github.com/petehunt/react-howto)
 * [Learn React in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
 * [10 Resources for React.js](http://codecondo.com/reactjs-resources)
 * [Routing with Raw React](http://jamesknelson.com/routing-with-raw-react)
