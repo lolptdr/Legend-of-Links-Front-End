@@ -106,6 +106,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Pairing Fonts](http://www.newmediacampaigns.com/blog/resources-for-font-pairing-typography-inspiration)
 * [Tools Designers Use Today](http://tools.subtraction.com/)
 * [Sitemaps and User Flow Maps](http://speckyboy.com/2015/01/28/collection-inspiring-sitemaps-user-flow-maps)
+* [The List of UX Tools to Rule Them All](https://medium.com/@optimiseordie/the-list-of-ux-tools-to-rule-them-all-a1970b9e9c06)
 
 ### Inspiration for Art, Music, and Video
 * [Isometric, game-like drawings, surrel](http://whitelead.com/jrh/screenshots/index.html)
