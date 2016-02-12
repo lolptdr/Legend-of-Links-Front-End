@@ -121,6 +121,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Giant List of Styleguides](https://adactio.com/links/tags/styleguide)
 * [Frontend Tooling Survey 2015](http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
 * [Trends to See in 2016](http://techcrunch.com/2016/01/13/1261560/#.si58fik:B8KO)
+* [How to Contribute to Open Source Projects on Github](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
 ### Interview Skills and Questions and Topics
 * [Front-End Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
