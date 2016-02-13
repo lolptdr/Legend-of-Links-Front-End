@@ -135,6 +135,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Wealthbot: Wealth Management Platform](https://github.com/wealthbot-io/wealthbot)
 * [Visual Studio Code and Docker to build and deploy Node app](http://blogs.msdn.com/b/vscode/archive/2015/08/11/getting-started-with-docker.aspx)
 * [Deploy Slackbot via Heroku](http://blog.npmjs.org/post/128237577345/how-to-build-a-slackbot-deploy-an-app-to-heroku)
+* [Building CLI Tools with Node.js](https://developer.atlassian.com/blog/2015/11/scripting-with-node/?categories=node.js)
 
 ### Tools and DevOps
 * [RegExr](http://regexr.com/)
