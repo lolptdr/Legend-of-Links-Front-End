@@ -42,6 +42,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [React Won the Client Side War](http://www.sitepoint.com/react-has-won-the-client-side-war)
 
 ### JS Guides and Resources
+* [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 * [Understanding Async JavaScript (damn good)](https://github.com/vasanthk/async-javascript)
 * [Front End Tools Favorite Finds 2015](http://www.sitepoint.com/front-end-tools-favorite-finds-2015/) 
 * [JS the right way](http://jstherightway.org/)
