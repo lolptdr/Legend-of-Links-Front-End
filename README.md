@@ -198,6 +198,11 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Nate Silver on Finding a Mentor, Teaching Yourself Statistics, and Not Settling in Your Career](https://hbr.org/2013/09/nate-silver-on-finding-a-mentor-teaching-yourself-statistics-and-not-settling-in-your-career)
 * [Tips for Winning Data Science Competitions (for creating a good portfolio)](http://www.slideshare.net/OwenZhang2/tips-for-data-science-competitions)
 * [10 R Packages to Win Kaggle Competitions](http://www.slideshare.net/DataRobot/final-10-r-xc-36610234)
+* [Rodeo: Native Python IDE for Data Science] (https://www.yhat.com/products/rodeo) (https://news.ycombinator.com/item?id=10809216)
+* [How to Actually Learn Data Science](https://www.dataquest.io/blog/how-to-actually-learn-data-science/)
+(https://news.ycombinator.com/item?id=9896760)
+* [Big Data University](http://bigdatauniversity.com/)
+* [Datacamp](https://www.datacamp.com/)
 
 ### Coding Games and Challenges
 * [Empire of Code](https://empireofcode.com)
