@@ -130,6 +130,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * https://www.reddit.com/r/webdev/comments/3gxydn/what_to_learn_after_javascript_and_how_do_i_know/
 * https://www.reddit.com/r/webdev/comments/3gxd2f/recent_technical_phone_interview_for_a_full_stack/
 * https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/
+* https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324
 
 ### Other Projects and Demos of Interest
 * [Show HN](https://news.ycombinator.com/show)
