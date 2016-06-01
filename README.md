@@ -131,6 +131,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * https://www.reddit.com/r/webdev/comments/3gxd2f/recent_technical_phone_interview_for_a_full_stack/
 * https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/
 * https://medium.com/@evnowandforever/f-you-i-quit-hiring-is-broken-bb8f3a48d324
+* [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 
 ### Other Projects and Demos of Interest
 * [Show HN](https://news.ycombinator.com/show)
