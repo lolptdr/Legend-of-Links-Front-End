@@ -210,6 +210,9 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Untrusted by Dr. Eval](https://github.com/AlexNisnevich/untrusted)
 
 
+### Web Security
+* [Storage vs Cookies](http://blog.portswigger.net/2016/05/web-storage-lesser-evil-for-session.html)
+
 ### Back-end
 
 Ruby-on-Rails and Ruby
