@@ -33,6 +33,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Rackt's Redux intro and examples](https://rackt.github.io/redux/index.html)
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 * [What's a Redux?](https://quickleft.com/blog/redux-plain-english-workflow/)
+* [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 
 ### React
 * [React-howto by Pete Hunt](https://github.com/petehunt/react-howto)
