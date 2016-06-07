@@ -34,6 +34,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Dan Abrambov's talk "Live React: Hot Reloading with Time Travel"](https://www.youtube.com/watch?v=xsSnOQynTHs)
 * [What's a Redux?](https://quickleft.com/blog/redux-plain-english-workflow/)
 * [A Cartoon Intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+* [Unidirectional UI Architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
 
 ### React
 * [React-howto by Pete Hunt](https://github.com/petehunt/react-howto)
@@ -41,6 +42,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [10 Resources for React.js](http://codecondo.com/reactjs-resources)
 * [Routing with Raw React](http://jamesknelson.com/routing-with-raw-react)
 * [React Won the Client Side War](http://www.sitepoint.com/react-has-won-the-client-side-war)
+* [React Tutorial Cloing Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 
 ### JS Guides and Resources
 * [A Re-Introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
