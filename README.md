@@ -118,6 +118,7 @@ HN Link: https://news.ycombinator.com/item?id=10115314
 * [Death to Stock Photography](http://deathtothestockphoto.com/)
 
 ### Encompassing Guides and Resources
+* [101 Tips to Make a Website Awesome](https://www.awesomeweb.com/blog/make-website-awesome)
 * [Tuts+ ebooks](https://code.tutsplus.com/ebooks) hint: use edu email
 * [Free for Dev](https://github.com/ripienaar/free-for-dev)
 * [Webdesignrepo](http://www.webdesignrepo.com/)
